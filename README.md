@@ -4,6 +4,3 @@
 
 <p align="center">
   <a href="https://rentry.co/91days">rentry</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;⛌&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ooshin.atabook.org/">ata</a>
-</p>
